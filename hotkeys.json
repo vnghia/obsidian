@@ -1,0 +1,8 @@
+{
+  "command-palette:open": [
+    {
+      "key": "P",
+      "modifiers": ["Mod", "Shift"]
+    }
+  ]
+}
