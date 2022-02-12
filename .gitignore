@@ -1,0 +1,20 @@
+/*
+
+# Git
+!.gitignore
+
+# Obsidian
+!app.json
+!appearance.json
+!community-plugins.json
+!core-plugins.json
+!hotkeys.json
+
+# CSS snippets
+!snippets/
+
+# Plugins configs
+!plugins/
+plugins/**/main.js
+plugins/**/manifest.json
+!plugins/**/data.json
